@@ -1,0 +1,130 @@
+{
+  "quarter": {
+    "width": 32,
+    "height": 32,
+    "x": 0,
+    "y": 0,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "quarter-red": {
+    "width": 32,
+    "height": 32,
+    "x": 0,
+    "y": 32,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "quarter-yellow": {
+    "width": 32,
+    "height": 32,
+    "x": 0,
+    "y": 64,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "quarter-green": {
+    "width": 32,
+    "height": 32,
+    "x": 0,
+    "y": 96,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "half": {
+    "width": 32,
+    "height": 32,
+    "x": 32,
+    "y": 0,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "half-red": {
+    "width": 32,
+    "height": 32,
+    "x": 32,
+    "y": 32,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "half-yellow": {
+    "width": 32,
+    "height": 32,
+    "x": 32,
+    "y": 64,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "half-green": {
+    "width": 32,
+    "height": 32,
+    "x": 32,
+    "y": 96,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "three-quarter": {
+    "width": 32,
+    "height": 32,
+    "x": 64,
+    "y": 0,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "three-quarter-red": {
+    "width": 32,
+    "height": 32,
+    "x": 64,
+    "y": 32,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "three-quarter-yellow": {
+    "width": 32,
+    "height": 32,
+    "x": 64,
+    "y": 64,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "three-quarter-green": {
+    "width": 32,
+    "height": 32,
+    "x": 64,
+    "y": 96,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "full": {
+    "width": 32,
+    "height": 32,
+    "x": 96,
+    "y": 0,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "full-red": {
+    "width": 32,
+    "height": 32,
+    "x": 96,
+    "y": 32,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "full-yellow": {
+    "width": 32,
+    "height": 32,
+    "x": 96,
+    "y": 64,
+    "pixelRatio": 1,
+    "sdf": false
+  },
+  "full-green": {
+    "width": 32,
+    "height": 32,
+    "x": 96,
+    "y": 96,
+    "pixelRatio": 1,
+    "sdf": false
+  }
+}

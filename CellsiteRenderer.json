@@ -10,7 +10,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw10",
+"pn0-bw10",
 1, "pn1-bw10",
 2, "pn2-bw10",
 3, "pn3-bw10",
@@ -1026,7 +1026,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw20",
+"pn0-bw20",
 1, "pn1-bw20",
 2, "pn2-bw20",
 3, "pn3-bw20",
@@ -2043,7 +2043,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw30",
+"pn0-bw30",
 1, "pn1-bw30",
 2, "pn2-bw30",
 3, "pn3-bw30",
@@ -3060,7 +3060,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw40",
+"pn0-bw40",
 1, "pn1-bw40",
 2, "pn2-bw40",
 3, "pn3-bw40",
@@ -4077,7 +4077,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw50",
+"pn0-bw50",
 1, "pn1-bw50",
 2, "pn2-bw50",
 3, "pn3-bw50",
@@ -5094,7 +5094,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw60",
+"pn0-bw60",
 1, "pn1-bw60",
 2, "pn2-bw60",
 3, "pn3-bw60",
@@ -6111,7 +6111,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw70",
+"pn0-bw70",
 1, "pn1-bw70",
 2, "pn2-bw70",
 3, "pn3-bw70",
@@ -7128,7 +7128,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw80",
+"pn0-bw80",
 1, "pn1-bw80",
 2, "pn2-bw80",
 3, "pn3-bw80",
@@ -8145,7 +8145,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw90",
+"pn0-bw90",
 1, "pn1-bw90",
 2, "pn2-bw90",
 3, "pn3-bw90",
@@ -9162,7 +9162,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw100",
+"pn0-bw100",
 1, "pn1-bw100",
 2, "pn2-bw100",
 3, "pn3-bw100",
@@ -10179,7 +10179,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw110",
+"pn0-bw110",
 1, "pn1-bw110",
 2, "pn2-bw110",
 3, "pn3-bw110",
@@ -11196,7 +11196,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw120",
+"pn0-bw120",
 1, "pn1-bw120",
 2, "pn2-bw120",
 3, "pn3-bw120",
@@ -12213,7 +12213,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw130",
+"pn0-bw130",
 1, "pn1-bw130",
 2, "pn2-bw130",
 3, "pn3-bw130",
@@ -13230,7 +13230,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw140",
+"pn0-bw140",
 1, "pn1-bw140",
 2, "pn2-bw140",
 3, "pn3-bw140",
@@ -14247,7 +14247,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw150",
+"pn0-bw150",
 1, "pn1-bw150",
 2, "pn2-bw150",
 3, "pn3-bw150",
@@ -15264,7 +15264,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw160",
+"pn0-bw160",
 1, "pn1-bw160",
 2, "pn2-bw160",
 3, "pn3-bw160",
@@ -16281,7 +16281,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw170",
+"pn0-bw170",
 1, "pn1-bw170",
 2, "pn2-bw170",
 3, "pn3-bw170",
@@ -17298,7 +17298,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw180",
+"pn0-bw180",
 1, "pn1-bw180",
 2, "pn2-bw180",
 3, "pn3-bw180",
@@ -18315,7 +18315,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw190",
+"pn0-bw190",
 1, "pn1-bw190",
 2, "pn2-bw190",
 3, "pn3-bw190",
@@ -19332,7 +19332,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw200",
+"pn0-bw200",
 1, "pn1-bw200",
 2, "pn2-bw200",
 3, "pn3-bw200",
@@ -20349,7 +20349,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw210",
+"pn0-bw210",
 1, "pn1-bw210",
 2, "pn2-bw210",
 3, "pn3-bw210",
@@ -21366,7 +21366,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw220",
+"pn0-bw220",
 1, "pn1-bw220",
 2, "pn2-bw220",
 3, "pn3-bw220",
@@ -22383,7 +22383,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw230",
+"pn0-bw230",
 1, "pn1-bw230",
 2, "pn2-bw230",
 3, "pn3-bw230",
@@ -23400,7 +23400,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw240",
+"pn0-bw240",
 1, "pn1-bw240",
 2, "pn2-bw240",
 3, "pn3-bw240",
@@ -24417,7 +24417,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw250",
+"pn0-bw250",
 1, "pn1-bw250",
 2, "pn2-bw250",
 3, "pn3-bw250",
@@ -25434,7 +25434,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw260",
+"pn0-bw260",
 1, "pn1-bw260",
 2, "pn2-bw260",
 3, "pn3-bw260",
@@ -26451,7 +26451,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw270",
+"pn0-bw270",
 1, "pn1-bw270",
 2, "pn2-bw270",
 3, "pn3-bw270",
@@ -27468,7 +27468,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw280",
+"pn0-bw280",
 1, "pn1-bw280",
 2, "pn2-bw280",
 3, "pn3-bw280",
@@ -28485,7 +28485,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw290",
+"pn0-bw290",
 1, "pn1-bw290",
 2, "pn2-bw290",
 3, "pn3-bw290",
@@ -29502,7 +29502,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw300",
+"pn0-bw300",
 1, "pn1-bw300",
 2, "pn2-bw300",
 3, "pn3-bw300",
@@ -30519,7 +30519,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw310",
+"pn0-bw310",
 1, "pn1-bw310",
 2, "pn2-bw310",
 3, "pn3-bw310",
@@ -31536,7 +31536,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw320",
+"pn0-bw320",
 1, "pn1-bw320",
 2, "pn2-bw320",
 3, "pn3-bw320",
@@ -32553,7 +32553,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw330",
+"pn0-bw330",
 1, "pn1-bw330",
 2, "pn2-bw330",
 3, "pn3-bw330",
@@ -33570,7 +33570,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw340",
+"pn0-bw340",
 1, "pn1-bw340",
 2, "pn2-bw340",
 3, "pn3-bw340",
@@ -34587,7 +34587,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw350",
+"pn0-bw350",
 1, "pn1-bw350",
 2, "pn2-bw350",
 3, "pn3-bw350",
@@ -35604,7 +35604,7 @@
 "icon-image": [
 "step",
 ["get", "pn"],
-0, "pn0-bw360",
+"pn0-bw360",
 1, "pn1-bw360",
 2, "pn2-bw360",
 3, "pn3-bw360",
